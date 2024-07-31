@@ -1,0 +1,1 @@
+﻿global using Acme.TechnicalTest.Domain.Domain.Shared;
